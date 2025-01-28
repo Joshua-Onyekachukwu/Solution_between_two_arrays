@@ -54,7 +54,6 @@ If an integer satisfies both conditions, increment the count.
 Finally, return the total count of integers that meet the criteria.
 
 
-
 # Explanation of the Code
 
 Finding the Range:
